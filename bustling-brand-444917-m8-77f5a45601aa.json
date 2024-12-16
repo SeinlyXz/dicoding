@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bustling-brand-444917-m8",
+  "private_key_id": "77f5a45601aa97a190b81572a549f2f4a73f3309",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCeX3MNEkxvOL/e\n2z3/O/9f1MoupPgcBjFxeLoJzVYiDAy8h3G33IwC1TkcPSgJ1s3CtB3nle+BfGAu\nafeS8NBwPFwR57KEpjJeepSztFOoBJcGvBLYHRQxHHfbLyI32o6OH5Zn8Kee8h+3\n6PmGIx2yzIX10q/fDdMrbIpsX42A7fUpEA1hlvbfNPGmKq2BjvjAan2BlDIRUNMw\nFVRpWMLv46G3NSE5NxpL90wIA77eQWzutkspILSpYSsofypy/fHybKpQzA/ecMdg\n3G64iAXYpzrei8oT9Pj31jJ2k8ZZ7kcLN2UeqHjJqozF8OQAeid8Fyi740xEEiIs\n+SQM1FUFAgMBAAECggEAOsXPS32L8gaMZebU9iBM4EJ2maLNFJFTzflwiOyz10TD\ngT9+ey4Uo4R/gjRL5ILbrzLqmiPxUwtWIkNfBh/qKoyr2lUy0blfneI9xwbXuNWj\nOnOXRq5b7PHUpPmz6ChqmOGuDnqnqfvOu5Bw8U+c2Nq/p/99FvjpcgcAw8EeIUcY\nIMEEHsW2U7e5hjtZZyXJ6OWMOXLzSyKwmk4pwd/PqwdsV9FBalcpJ+XrIHXR3+en\nVTIGbRsQZp+lVU9znFr2ngYauNUvEU8qKjk61c/AigS2bz0ZBhI+qeJirUI2eGjz\nqtrHzsOztc5O/+vRuQ+4TpSmXDFu0RW1Jr1b/VAfrQKBgQDOxqhWOflhaPuViBwo\nePP5a+6kd7g2DWchwq/mrvggCMHLW/K+VX+8Kw1fHHGHvt8dK8Y4jlm5GCr0rI4O\nA3wFWyB3cVIEL/QfJHGaRCQZSHkM46tVfNkjL1gwNpx230QBFVE2UbHmpUPgRixL\niakNMvbXYBF+aboRZ3RzeuBpQwKBgQDEEwHDWJAL57FKCM5pDPNcj6Jp0nMAgklr\nD9WHU5t4ZqmuMpzSfTrvneBTWqa/b4h3I/DIKgeFpihkjnAmFv/2Hff+jKj7SaAf\n2Rn4Ldb1L7KPEj0XSXzwbD4shosTXqwgAZlmaeYSYlsxL5rPwgJRXUtWdHEXmjGZ\n+MNyqQugFwKBgBAAr+Z8diBjz5SzA/rd4YPcJovz9/2269RhDNv9jpZsFxN1+kNg\nupIFgvNpcB/hVcMcMCsQWUFJ7YkiEZxkCKUheFHGI2LPk0UVvPUDcQfD5BprREdJ\nckSW1WxlzZYlkU3EKJTbnbkL8UTaKXNvI/Yxi4j/llsCM7RFHW4ShGuhAoGAPn70\na+hZmYHTD475A6DeHN2nXeV3RG1Cq35TiBvNDTZj1SNKuwixdViz/L2DMreBHsB0\n6cgDt8S7UTnZYzqngTISLq902QuhnyUa0vEBeAso9dNRZ4/D4/oMYzLLN3RQlq8L\nzwnoDGoPOQE8bgYfqQF8luTseyJptvMEkRJyoycCgYAAvBprz2iEw8RnbMNCkTOC\naQBg67TqxC8mKIWeFT63eS/mCrcsywjkB1ns7wrs20Xecmwb9QCyaSQ55fRo4ZEm\nzytmyK04Ea+wmHVXbHcvZmi+CcLy3NHqTsiNo/utPiPlCHZd7u4Da9effAvc9zcK\nja4E30KInKqeB6XTRmm/YQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "submissiondawam@bustling-brand-444917-m8.iam.gserviceaccount.com",
+  "client_id": "100896487899695323068",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submissiondawam%40bustling-brand-444917-m8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
